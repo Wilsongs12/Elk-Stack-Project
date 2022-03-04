@@ -139,7 +139,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
  
 3. Update the Ansible config file **/etc/ansible/ansible.cfg** and set remote user parameter to the admin of the web servers.
 
-4. Run the playbook, and navigate to Kibana (http://<PUBLIC IP>:5601/app/kibana) to check that the installation worked as expected.
+4. Run the playbook, and navigate to Kibana (http://PUBLIC IP:5601/app/kibana) to check that the installation worked as expected.
 
  **Which file(s) are the playbook? Where do you copy it?**
 
